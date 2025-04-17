@@ -19,6 +19,16 @@ This Screenlocker has 4 functions:
 
 This is a Quite dangerous screenlocker that overwrites master boot record setting it to 0 and is suppose to mimic a BSOD and WINRE (Windows Recovery)
 
+# Compatibility
+
+- Windows 11
+
+- Windows 10
+
+- Windows 8.1?
+
+(I tested this malware in Windows 10 so not sure if other Windows would work but generally it would work in newer windows versions)
+
 # For the skidders
 
 This project will be open source for everyone to view and understand the code and use it in projects but PLEASE make sure to credit the creator (Heizenn) for what code you used. This open source project will be protected with Apache 2.0 and GPL 3.0.
