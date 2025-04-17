@@ -15,15 +15,15 @@ This Screenlocker has 4 functions:
 
 4th. Blocking Windows key (Kinda)
 
-#Description
+# Description
 
 This is a Quite dangerous screenlocker that overwrites master boot record setting it to 0 and is suppose to mimic a BSOD and WINRE (Windows Recovery)
 
-#For the skidders
+# For the skidders
 
 This project will be open source for everyone to view and understand the code and use it in projects but PLEASE make sure to credit the creator (Heizenn) for what code you used. This open source project will be protected with Apache 2.0 and GPL.
 
-#Credits
+# Credits
 
 Thanks to these guys who had their code or help in this project. Thanks to them!
 
