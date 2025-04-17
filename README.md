@@ -21,7 +21,7 @@ This is a Quite dangerous screenlocker that overwrites master boot record settin
 
 # For the skidders
 
-This project will be open source for everyone to view and understand the code and use it in projects but PLEASE make sure to credit the creator (Heizenn) for what code you used. This open source project will be protected with Apache 2.0 and GPL.
+This project will be open source for everyone to view and understand the code and use it in projects but PLEASE make sure to credit the creator (Heizenn) for what code you used. This open source project will be protected with Apache 2.0 and GPL 3.0.
 
 # Credits
 
