@@ -1,4 +1,4 @@
-# Microsoft Pewrer piont paid REYL no fayk 2025 legit (TROJAN.WINSCREENLOCKER.WIN32)
+# Microsoft Pewrer piont paid REYL no fayk 2025 legit (TROJAN.SCREENLOCKER.WIN32)
 This is the first Screenlocker i actually released so enjoy
 
 - Heizenn
