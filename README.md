@@ -37,8 +37,8 @@ This project will be open source for everyone to view and understand the code an
 
 Thanks to these guys who had their code or help in this project. Thanks to them!
 
-@ - Helped with the code
+@AG5516 - Helped with the code
 
-@ - Used MBR overwriter code
+@MalwareStudio - Used MBR overwriter code
 
 @Heizennz - Creator of the Screenlocker
